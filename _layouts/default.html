@@ -21,7 +21,7 @@ layout: base
 
 <article class="page" role="article">
   <header>
-    <h1 class="page-title">{{ page.title | default:strings.home | default:"Home" }}</h1>
+    <h1 class="page-title">{{ page.title | default:strings.home | default:"" }}</h1>
     {% include components/message.html text=page.description hide=page.hide_description %}
   </header>
 
@@ -32,7 +32,7 @@ layout: base
   {% if site.posts.size > 0 %}
     <h2 class="hr">{{ strings.posts | default:"Posts" }}</h2>
     <ul class="related-posts">
-      {% for post in site.posts limit:5 %}
+      {% for post in site.posts limit:4 %}
         {% include components/post-list-item.html post=post %}
       {% endfor %}
     </ul>
@@ -42,7 +42,7 @@ layout: base
   {% if pages.size > 0 %}
     <h2 class="hr">{{ strings.pages | default:"Pages" }}</h2>
     <ul class="related-posts">
-      {% for page in pages limit:5 %}
+      {% for page in pages limit:4 %}
         {% if page.layout == 'page' %}
           <li class="h4">
             <a href="{{ page.url | relative_url }}" class="flip-title">
