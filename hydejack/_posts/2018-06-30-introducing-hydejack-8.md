@@ -6,7 +6,7 @@ description: >
   It introduces Cover Pages, Offline Support, and soon... Dark Mode.
 ---
 
-After a long wait, Hydejack 8 finally sees the day of its release. It makes Hydejack look more elegant (no more super bold headings) and introduces features that make your site more impressive to first time visitors, while loading faster for repeat visitors.
+> After a long wait, Hydejack 8 finally sees the day of its release. It makes Hydejack look more elegant (no more super bold headings) and introduces features that make your site more impressive to first time visitors, while loading faster for repeat visitors.
 
 
 ### Cover Pages
