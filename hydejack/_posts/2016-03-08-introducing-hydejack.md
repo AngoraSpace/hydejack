@@ -2,7 +2,7 @@
 layout: post
 title: Introducing Hydejack (v3)
 description: >
-## I love the original Hyde theme, but unfortunately the layout isn't as great on small screens.
+I love the original Hyde theme, but unfortunately the layout isn't as great on small screens.
 Since the sidebar moves to the top, the user has to scroll down just to read the title of a blog post.
 ---
 
