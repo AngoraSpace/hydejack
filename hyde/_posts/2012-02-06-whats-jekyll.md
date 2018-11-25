@@ -2,7 +2,8 @@
 layout: post
 title: What's Jekyll?
 description: >
-  Jekyll is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes.
+I love the original Hyde theme, but unfortunately the layout isn't as great on small screens.
+Since the sidebar moves to the top, the user has to scroll down just to read the title of a blog post.
 author: author2
 canonical_url: http://hyde.getpoole.com/2012/02/06/whats-jekyll/
 ---
