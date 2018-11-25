@@ -33,8 +33,10 @@ Hydejack is developed on and hosted with GitHub. Head to the [GitHub repository]
 for downloads, bug reports, and feature requests.
 
 ## Sidebar
-[I love the original Hyde theme, but unfortunately the layout isn't as great on small screens.
-Since the sidebar moves to the top, the user has to scroll down just to read the title of a blog post.]
+~~~
+I love the original Hyde theme, but unfortunately the layout isn't as great on small screens.
+Since the sidebar moves to the top, the user has to scroll down just to read the title of a blog post.
+~~~
 
 By using a drawer component I was able to retain the original two column layout.
 It's possible to move the drawer via touch input (with the help of a little JavaScript).
