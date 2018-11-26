@@ -1,8 +1,8 @@
 ---
 layout: post 
 title: Freethinker Indonesia 
-category: Blog 
-tag: Think
+categories: Blog 
+tags: Think
 --- 
 
 https://youtube.com/watch?v=J0y-1WqIfeQ 
