@@ -19,7 +19,7 @@ baseurl: /hydejack
 lang: en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title: Bayu Angora
+title:  Bayu Angora
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -28,7 +28,7 @@ description: Freethinker Indonesia
   **Hydejack** is your presence on the web, featuring a blog, portfolio, and resume.
 
 # A shorter description for the sidebar.
-tagline: ★★★★★
+tagline:  ★★★★★
 
 # A list of keywords for your blog
 keywords: []
@@ -43,7 +43,6 @@ author:
   name: Bayu Angora
   facebook: BayuAngora
   twitter: BayuAngora
-  google-plus: BayuAngora
   instagram: BayuAngora
 
 # This text will appear in a `<small>` tag in the footer of every page.
@@ -142,7 +141,7 @@ hydejack:
   project_addons: [about, newsletter, other]
 
   # If you do not use Google Fonts, set to `true`.
-  no_google_fonts: true
+  no_google_fonts: false
 
   # Set to `true` if you don't want to show an icon indicating external links
   no_mark_external: false
